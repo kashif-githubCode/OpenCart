@@ -1,0 +1,49 @@
+23:04:17.432[main] INFO  testCases.TC_002_LoginTest- *****Starting Login Test***********
+23:04:19.520[main] INFO  testCases.TC_002_LoginTest- **********Finished Login test**********
+23:04:30.770[main] INFO  testCases.TC_001_AccountRegistrationTest- ****starting AccountRegistrationTest*****
+23:04:31.702[main] INFO  testCases.TC_001_AccountRegistrationTest- ****Register page*****
+23:04:31.706[main] INFO  testCases.TC_001_AccountRegistrationTest- ****Providing customer Details*****
+23:04:33.224[main] INFO  testCases.TC_001_AccountRegistrationTest- ****Finished AccountRegistrationTest*****
+23:04:45.561[main] INFO  testCases.TC_002_LoginTest- *****Starting Login Test***********
+23:04:48.006[main] INFO  testCases.TC_002_LoginTest- **********Finished Login test**********
+23:06:15.265[TestNG-tests-1] INFO  testCases.TC_002_LoginTest- *****Starting Login Test***********
+23:06:15.265[TestNG-tests-2] INFO  testCases.TC_002_LoginTest- *****Starting Login Test***********
+23:06:18.086[TestNG-tests-3] INFO  testCases.TC_002_LoginTest- *****Starting Login Test***********
+23:09:14.450[TestNG-tests-1] INFO  testCases.TC_002_LoginTest- *****Starting Login Test***********
+23:09:15.771[TestNG-tests-2] INFO  testCases.TC_002_LoginTest- *****Starting Login Test***********
+23:09:15.795[TestNG-tests-3] INFO  testCases.TC_002_LoginTest- *****Starting Login Test***********
+23:09:17.951[TestNG-tests-1] INFO  testCases.TC_002_LoginTest- **********Finished Login test**********
+23:09:48.349[TestNG-tests-1] INFO  testCases.TC_002_LoginTest- *****Starting Login Test***********
+23:09:49.948[TestNG-tests-2] INFO  testCases.TC_002_LoginTest- *****Starting Login Test***********
+23:09:49.967[TestNG-tests-3] INFO  testCases.TC_002_LoginTest- *****Starting Login Test***********
+23:09:52.279[TestNG-tests-1] INFO  testCases.TC_002_LoginTest- **********Finished Login test**********
+23:11:11.767[TestNG-tests-2] INFO  testCases.TC_002_LoginTest- *****Starting Login Test***********
+23:11:13.321[TestNG-tests-3] INFO  testCases.TC_002_LoginTest- *****Starting Login Test***********
+23:11:15.778[TestNG-tests-1] INFO  testCases.TC_002_LoginTest- *****Starting Login Test***********
+23:14:37.609[TestNG-tests-2] INFO  testCases.TC_002_LoginTest- *****Starting Login Test***********
+23:14:39.418[TestNG-tests-3] INFO  testCases.TC_002_LoginTest- *****Starting Login Test***********
+23:14:39.449[TestNG-tests-1] INFO  testCases.TC_002_LoginTest- *****Starting Login Test***********
+23:14:41.690[TestNG-tests-2] INFO  testCases.TC_002_LoginTest- **********Finished Login test**********
+23:17:19.547[TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest- ****starting AccountRegistrationTest*****
+23:17:21.154[TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest- ****starting AccountRegistrationTest*****
+23:17:21.446[TestNG-tests-2] ERROR testCases.TC_001_AccountRegistrationTest- Test is failed
+23:17:21.505[TestNG-tests-3] ERROR testCases.TC_001_AccountRegistrationTest- Test is failed
+23:17:23.445[TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest- ****starting AccountRegistrationTest*****
+23:17:24.382[TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest- ****Register page*****
+23:17:24.394[TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest- ****Providing customer Details*****
+23:17:28.098[TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest- Test is failed
+23:17:37.754[TestNG-tests-2] INFO  testCases.TC_002_LoginTest- *****Starting Login Test***********
+23:17:37.759[TestNG-tests-3] INFO  testCases.TC_002_LoginTest- *****Starting Login Test***********
+23:18:36.011[TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest- ****starting AccountRegistrationTest*****
+23:18:39.312[TestNG-tests-3] INFO  testCases.TC_001_AccountRegistrationTest- ****starting AccountRegistrationTest*****
+23:18:39.321[TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest- ****starting AccountRegistrationTest*****
+23:18:39.532[TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest- ****Register page*****
+23:18:39.533[TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest- ****Providing customer Details*****
+23:18:39.840[TestNG-tests-2] ERROR testCases.TC_001_AccountRegistrationTest- Test is failed
+23:18:39.840[TestNG-tests-3] ERROR testCases.TC_001_AccountRegistrationTest- Test is failed
+23:18:39.851[TestNG-tests-1] ERROR testCases.TC_001_AccountRegistrationTest- Test is failed
+23:19:57.438[main] INFO  testCases.TC_001_AccountRegistrationTest- ****starting AccountRegistrationTest*****
+23:19:58.385[main] INFO  testCases.TC_001_AccountRegistrationTest- ****Register page*****
+23:19:58.387[main] INFO  testCases.TC_001_AccountRegistrationTest- ****Providing customer Details*****
+23:19:59.776[main] INFO  testCases.TC_001_AccountRegistrationTest- ****Finished AccountRegistrationTest*****
+23:20:09.973[main] INFO  testCases.TC_001_AccountRegistrationTest- ****starting AccountRegistrationTest*****
